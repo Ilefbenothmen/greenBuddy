@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481462399760",
+    "project_id": "greenbuddy-9da5b",
+    "storage_bucket": "greenbuddy-9da5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481462399760:android:a304cf1069f4c24d5f2b95",
+        "android_client_info": {
+          "package_name": "com.app.greenbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vWuZBDT2tMu5Q4KnAlgRatKTdhoh1Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
